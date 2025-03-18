@@ -1,6 +1,6 @@
 import { useState, useCallback } from 'react';
 import './App.css';
-import AgeRequester from './components/age-requester/age-requester.jsx';
+import AgeRequester from './components/age-requester/age-requester-v2.jsx';
 import Header from './containers/header/header.jsx';
 
 function App() {
